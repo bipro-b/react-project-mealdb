@@ -1,0 +1,15 @@
+.meal-container{
+    display: grid;
+    grid-template-columns: repeat(1fr ,3);
+}
+.search-field{
+    
+    background-color: rgba(0, 0, 0, 0.61);
+    text-align: center;
+}
+.search-field input{
+    width: 50%;
+}
+.Meal{
+    text-align: center;
+}
